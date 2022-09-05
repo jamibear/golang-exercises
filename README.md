@@ -1,2 +1,2 @@
 # golang-exercises
-## section 6: interfaces
+## section 7: channels and go routines

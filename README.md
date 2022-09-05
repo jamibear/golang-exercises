@@ -1,2 +1,2 @@
 # golang-exercises
-## section 4: organizing data with structs
+## section 5: maps

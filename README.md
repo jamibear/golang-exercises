@@ -1,2 +1,2 @@
 # golang-exercises
-## section 5: maps
+## section 6: interfaces

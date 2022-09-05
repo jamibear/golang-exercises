@@ -1,2 +1,2 @@
 # golang-exercises
-## section 2: a simple start
+## section 3: deeper into go

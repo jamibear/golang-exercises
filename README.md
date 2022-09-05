@@ -1,2 +1,2 @@
 # golang-exercises
-## section 3: deeper into go
+## section 4: organizing data with structs

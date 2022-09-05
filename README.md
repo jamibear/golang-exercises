@@ -1,7 +1,7 @@
 # golang-exercises
 ## section 3: deeper into go
 
-# Project: Playing Cards
+### Project: Playing Cards
 - create a list of playing cards 
 - log out the contents of a deck of cards 
 - shuffles all the cards in a deck 
